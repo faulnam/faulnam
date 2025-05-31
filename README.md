@@ -127,7 +127,7 @@ I enjoy building responsive and user-friendly web applications using modern tech
   <a href="mailto:syifakul.anm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://faulnam.github.io/WEB-KELAS">
+  <a href="https://faulnam.github.io/WEB-PERSONAL/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
