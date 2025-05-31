@@ -86,7 +86,7 @@ I enjoy building responsive and user-friendly web applications using modern tech
       <sub>Aplikasi microblog “catatan 1 menit” berbasis web seperti Twitter mini.</sub>
     </td>
 <td width="400">
-      <a href="https://faulnam.github.io/APK-WEB-ABSENSI" target="_blank">
+      <a href="ttps://github.com/faulnam/APK-WEB-ABSENSI" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=APK-WEB-ABSENSI&theme=material-palenight" />
       </a>
       <br/>
