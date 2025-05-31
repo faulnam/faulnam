@@ -12,9 +12,6 @@
   <a href="mailto:syifakul.anm@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://faulnam.github.io/WEB-KELAS" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/My%20Project-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -22,7 +19,6 @@
 ## 👨‍💻 About Me
 
 - 💼 I'm a passionate **Frontend & Backend Developer** who loves building modern web apps
-- 🚀 Currently working on: `WEB-KELAS` – a web-based class platform
 - 🌱 Always learning: `React`, `Node.js`, `UI/UX`, and clean coding principles
 - 📫 Reach me at: `syifakul.anm@gmail.com`
 
@@ -65,7 +61,7 @@ Platform kelas daring berbasis web — modern, ringan, dan responsif.
 ## 🔗 Connect With Me
 
 - 🌐 **LinkedIn**: [Faul Nam](https://www.linkedin.com/in/faul-nam-646965259)
-- 📝 **Blog & Project**: [WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
+- 📝 **Blog**: [Portofolio](https://faulnam.github.io/WEB-KELAS)
 - 📬 **Email**: syifakul.anm@gmail.com
 
 ---
