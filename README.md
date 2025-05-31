@@ -1,16 +1,23 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+M+Syifaul+Anam!;Frontend+Developer;Backend+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+M+Syifaul+Anam!;Frontend+Developer;Backend+Developer;Clean+Code+Lover;Always+Learning+and+Building" alt="Typing Animation" />
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+
+<p align="center">
+  <img src="https://github.com/faulnam/faulnam/blob/main/assets/banner.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syifakul.anm@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faulnam.github.io/WEB-KELAS" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -18,43 +25,75 @@
 
 ## 👨‍💻 About Me
 
-- 💼 I'm a passionate **Frontend & Backend Developer** who loves building modern web apps
-- 🌱 Always learning: `React`, `Node.js`, `UI/UX`, and clean coding principles
-- 📫 Reach me at: `syifakul.anm@gmail.com`
+I'm **M Syifaul Anam**, a passionate **Fullstack Web Developer** based in Indonesia 🇮🇩.  
+I enjoy building responsive and user-friendly web applications using modern tech stacks.
+
+### 🧠 Skills & Focus
+- 💻 Frontend: HTML, CSS, JavaScript, React, Tailwind
+- ⚙️ Backend: Node.js, Express, PHP Native, MySQL, MongoDB
+- 🎨 UI/UX Tools: Figma, Canva
+- 🌐 Versioning & Tools: Git, GitHub, VSCode
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,mysql,mongodb,figma,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faulnam&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faulnam&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faulnam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faulnam&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📌 Highlight Project
+## 🚧 Highlight Projects
 
-### 🔗 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS) 🔗 [APK-WEB-BAJU](https://github.com/faulnam/Aplikasi-Web-Baju)  🔗 [WEB-SOSMED](https://faulnam.github.io/catatansemenit/ctsemenit) 🔗 [APK-WEB-ABSENSI](https://faulnam.github.io/APK-WEB-ABSENSI)
-💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, Node.js, dan PHP Native**.
+### 🌐 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
+Platform kelas daring berbasis web dengan UI responsif dan fungsionalitas modern.
 
+### 🧵 [APK-WEB-BAJU](https://github.com/faulnam/Aplikasi-Web-Baju)
+Website toko baju online sederhana dengan fitur CRUD dan keranjang belanja.
+
+### 💬 [WEB-SOSMED](https://faulnam.github.io/catatansemenit/ctsemenit)
+Sebuah konsep microblog (catatan 1 menit) berbasis web.
+
+### 📅 [APK-WEB-ABSENSI](https://faulnam.github.io/APK-WEB-ABSENSI)
+Aplikasi absensi online berbasis web untuk organisasi/kelas.
 
 ---
 
-## 🔗 Connect With Me
+## 🐍 Snake GitHub Contribution Animation
 
-- 🌐 **LinkedIn**: [Faul Nam](https://www.linkedin.com/in/faul-nam-646965259)
-- 📝 **Blog**: [Portofolio](https://faulnam.github.io/WEB-KELAS)
-- 📬 **Email**: [Email](syifakul.anm@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faulnam/faulnam/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:syifakul.anm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faulnam.github.io/WEB-KELAS">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AFFEF&height=100&section=footer" />
+</p>
