@@ -45,7 +45,7 @@
 ## 📌 Highlight Project
 
 ### 🔗 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS) 🔗 [APK-WEB-BAJU](https://github.com/faulnam/Aplikasi-Web-Baju)  
-💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, dan Node.js**.
+💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, Node.js, dan PHP Native**.
 
 
 ---
