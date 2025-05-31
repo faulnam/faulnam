@@ -94,6 +94,17 @@ I enjoy building responsive and user-friendly web applications using modern tech
       <sub>Absensi online berbasis web untuk organisasi/kelas, dengan fitur real-time tracking.</sub>
     </td>
   </tr>
+
+  <tr>
+    <td width="400">
+      <a href=" https://github.com/faulnam/APK-WEB-ATK" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=catatansemenit&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>💬 APK-WEB-ATK</b> <br/>
+      <sub>Aplikasi toko online alat tulis sederhana dengan fitur CRUD produk dan keranjang belanja</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
