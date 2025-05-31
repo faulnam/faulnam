@@ -47,53 +47,61 @@ I enjoy building responsive and user-friendly web applications using modern tech
 
 ---
 
-## 🚀 Highlight Projects
+## 📌 Highlight Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0AFFEF&height=100&section=header&text=Highlight%20Projects&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=2" />
 </p>
 
 <div align="center">
 
-✨ Klik judul untuk melihat project-nya langsung!
+<table>
+  <tr>
+    <td width="400">
+      <a href="https://faulnam.github.io/WEB-KELAS" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=WEB-KELAS&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>🎓 WEB-KELAS</b> <br/>
+      <sub>Platform kelas daring berbasis web, dibuat dengan HTML, CSS, JS, Tailwind, dan PHP.</sub>
+    </td>
+<td width="400">
+      <a href="https://github.com/faulnam/Aplikasi-Web-Baju" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=Aplikasi-Web-Baju&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>🛒 APK-WEB-BAJU</b> <br/>
+      <sub>Aplikasi toko online baju sederhana dengan fitur CRUD produk dan keranjang belanja.</sub>
+    </td>
+    
+  </tr>
 
----
-
-### 🔗 [🌐 WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
-🎓 Platform kelas daring berbasis web yang membantu manajemen materi dan aktivitas belajar secara interaktif.  
-📦 **Tech Used**: `HTML`, `CSS`, `JS`, `Tailwind`, `PHP`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=WEB-KELAS&theme=tokyonight" />
-
----
-
-### 🔗 [🛍️ APK-WEB-BAJU](https://github.com/faulnam/Aplikasi-Web-Baju)
-👕 Toko online sederhana untuk penjualan baju dengan fitur CRUD produk dan sistem keranjang belanja.  
-📦 **Tech Used**: `PHP Native`, `MySQL`, `Bootstrap`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=Aplikasi-Web-Baju&theme=tokyonight" />
-
----
-
-### 🔗 [🗣️ WEB-SOSMED](https://faulnam.github.io/catatansemenit/ctsemenit)
-🧠 Microblogging app untuk menulis catatan cepat dalam 1 menit, mirip Twitter versi ringan.  
-📦 **Tech Used**: `HTML`, `CSS`, `JavaScript`, `Tailwind`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=catatansemenit&theme=tokyonight" />
-
----
-
-### 🔗 [📅 APK-WEB-ABSENSI](https://faulnam.github.io/APK-WEB-ABSENSI)
-📌 Aplikasi absensi online yang simpel namun powerful untuk kebutuhan organisasi dan kelas.  
-📦 **Tech Used**: `PHP`, `HTML`, `JS`, `Tailwind`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=APK-WEB-ABSENSI&theme=tokyonight" />
+  <tr>
+    <td width="400">
+      <a href="https://faulnam.github.io/catatansemenit/ctsemenit" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=catatansemenit&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>💬 WEB-SOSMED</b> <br/>
+      <sub>Aplikasi microblog “catatan 1 menit” berbasis web seperti Twitter mini.</sub>
+    </td>
+<td width="400">
+      <a href="https://faulnam.github.io/APK-WEB-ABSENSI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=APK-WEB-ABSENSI&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>📅 APK-WEB-ABSENSI</b> <br/>
+      <sub>Absensi online berbasis web untuk organisasi/kelas, dengan fitur real-time tracking.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AFFEF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bfff&height=2" />
 </p>
+
 
 
 
