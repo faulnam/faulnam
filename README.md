@@ -62,7 +62,7 @@ Platform kelas daring berbasis web — modern, ringan, dan responsif.
 
 - 🌐 **LinkedIn**: [Faul Nam](https://www.linkedin.com/in/faul-nam-646965259)
 - 📝 **Blog**: [Portofolio](https://faulnam.github.io/WEB-KELAS)
-- 📬 **Email**: syifakul.anm@gmail.com
+- 📬 **Email**: [Email](syifakul.anm@gmail.com)
 
 ---
 
