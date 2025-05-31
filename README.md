@@ -6,18 +6,11 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://github.com/faulnam/faulnam/blob/main/assets/banner.png" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syifakul.anm@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://faulnam.github.io/WEB-KELAS" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -68,13 +61,6 @@ Sebuah konsep microblog (catatan 1 menit) berbasis web.
 ### 📅 [APK-WEB-ABSENSI](https://faulnam.github.io/APK-WEB-ABSENSI)
 Aplikasi absensi online berbasis web untuk organisasi/kelas.
 
----
-
-## 🐍 Snake GitHub Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faulnam/faulnam/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
 
 ---
 
