@@ -1,67 +1,80 @@
-<h1 align="center">Hi 👋, I'm M Syifaul Anam</h1>
-<h3 align="center">Fullstack Developer | Front end Developer | Back end Developer</h3>
+<!-- Banner Header Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rahmat+Irawan!;Fullstack+Developer;Open+Source+Contributor;Always+Learning+New+Techs&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=00F7FF&vCenter=true&size=22" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hi there, welcome to my GitHub profile!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on building scalable SaaS platforms using `React`, `Node.js`, and `PostgreSQL`.
+- 🌱 Currently diving deeper into `Kubernetes` and `AI integrations`.
+- 💬 Ask me about: Web Development, APIs, Clean Code, and System Design.
+- 📝 I often write about tech on [My Blog](https://rahmatirawan.dev).
+- 📫 Reach me via: `rahmat.codes@gmail.com`
+
+---
+
+## 🧠 Tech Stack
+
+<!-- Tech stack badges -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,git,github,vercel,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Animasi Keren
+
+<!-- Stats section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmatirawan&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatirawan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatirawan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 My Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎯 AI Task Manager](https://github.com/rahmatirawan/ai-task-manager) | AI-based productivity app with GPT | React, Node.js, MongoDB |
+| [📝 Blog CMS](https://github.com/rahmatirawan/blog-cms) | Full-featured blog CMS with Markdown support | Next.js, Prisma |
+| [💬 Real-time Chat](https://github.com/rahmatirawan/realtime-chat) | Secure chat app using WebSocket + JWT | MERN Stack |
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rahmatirawan" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahmat.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://rahmatirawan.dev">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on: `AI-integrated SaaS Platforms`
-- 🌱 Learning: `TypeScript`, `Kubernetes`, `Machine Learning`
-- 💬 Ask me about: `React`, `Node.js`, `DevOps`, `API Development`
-- 📫 Reach me at: `rahmat.codes@gmail.com`
-- ⚡ Fun fact: I love building scalable side-projects and mentoring junior devs.
+## 🎉 Fun Extras
 
----
-
-### 🛠 Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express)
-
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
+<!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmatirawan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatirawan&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahmatirawan&theme=onedark&no-bg=true&no-frame=true" />
 </p>
 
----
-
-### 📌 Featured Projects
-
-- 🔗 [AI Task Manager](https://github.com/rahmatirawan/ai-task-manager) – Open-source productivity app powered by GPT API
-- 🔗 [Next.js Blog CMS](https://github.com/rahmatirawan/blog-cms) – A customizable CMS using Next.js + Prisma
-- 🔗 [Real-time Chat App](https://github.com/rahmatirawan/realtime-chat) – MERN app with WebSocket + JWT Auth
-
----
-
-### 💬 Let's Connect!
-📬 [Email](mailto:rahmat.codes@gmail.com) • [LinkedIn](https://linkedin.com/in/rahmatirawan) • [Website](https://rahmatirawan.dev)
-
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/rahmatirawan/rahmatirawan/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
