@@ -98,7 +98,7 @@ I enjoy building responsive and user-friendly web applications using modern tech
   <tr>
     <td width="400">
       <a href=" https://github.com/faulnam/APK-WEB-ATK" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=catatansemenit&theme=material-palenight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=APK-WEB-ATK&theme=material-palenight" />
       </a>
       <br/>
       <b>💬 APK-WEB-ATK</b> <br/>
