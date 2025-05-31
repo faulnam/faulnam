@@ -44,8 +44,7 @@
 
 ## 📌 Highlight Project
 
-### 🔗 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
-Platform kelas daring berbasis web — modern, ringan, dan responsif.  
+### 🔗 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS) 🔗 [APK-WEB-BAJU]([https://faulnam.github.io/WEB-KELAS](https://github.com/faulnam/Aplikasi-Web-Baju))  
 💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, dan Node.js**.
 
 
