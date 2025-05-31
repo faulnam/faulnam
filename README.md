@@ -48,13 +48,6 @@
 Platform kelas daring berbasis web — modern, ringan, dan responsif.  
 💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, dan Node.js**.
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faulnam/faulnam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
