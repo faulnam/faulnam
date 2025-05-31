@@ -1,80 +1,72 @@
-<!-- Banner Header Animasi -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rahmat+Irawan!;Fullstack+Developer;Open+Source+Contributor;Always+Learning+New+Techs&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=00F7FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+M+Syifaul+Anam!;Frontend+Developer;Backend+Developer;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi there, welcome to my GitHub profile!</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:syifakul.anm@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faulnam.github.io/WEB-KELAS" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/My%20Project-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on building scalable SaaS platforms using `React`, `Node.js`, and `PostgreSQL`.
-- 🌱 Currently diving deeper into `Kubernetes` and `AI integrations`.
-- 💬 Ask me about: Web Development, APIs, Clean Code, and System Design.
-- 📝 I often write about tech on [My Blog](https://rahmatirawan.dev).
-- 📫 Reach me via: `rahmat.codes@gmail.com`
+- 💼 I'm a passionate **Frontend & Backend Developer** who loves building modern web apps
+- 🚀 Currently working on: `WEB-KELAS` – a web-based class platform
+- 🌱 Always learning: `React`, `Node.js`, `UI/UX`, and clean coding principles
+- 📫 Reach me at: `syifakul.anm@gmail.com`
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 
-<!-- Tech stack badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,figma,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Animasi Keren
+## 📊 GitHub Stats
 
-<!-- Stats section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmatirawan&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatirawan&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatirawan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faulnam&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faulnam&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-## 🚀 My Featured Projects
+## 📌 Highlight Project
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎯 AI Task Manager](https://github.com/rahmatirawan/ai-task-manager) | AI-based productivity app with GPT | React, Node.js, MongoDB |
-| [📝 Blog CMS](https://github.com/rahmatirawan/blog-cms) | Full-featured blog CMS with Markdown support | Next.js, Prisma |
-| [💬 Real-time Chat](https://github.com/rahmatirawan/realtime-chat) | Secure chat app using WebSocket + JWT | MERN Stack |
+### 🔗 [WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
+Platform kelas daring berbasis web — modern, ringan, dan responsif.  
+💡 Dibuat dengan kombinasi **HTML, CSS, JavaScript, Tailwind, dan Node.js**.
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faulnam/faulnam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahmatirawan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rahmat.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rahmatirawan.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 🌐 **LinkedIn**: [Faul Nam](https://www.linkedin.com/in/faul-nam-646965259)
+- 📝 **Blog & Project**: [WEB-KELAS](https://faulnam.github.io/WEB-KELAS)
+- 📬 **Email**: syifakul.anm@gmail.com
 
 ---
 
-## 🎉 Fun Extras
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahmatirawan&theme=onedark&no-bg=true&no-frame=true" />
-</p>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/rahmatirawan/rahmatirawan/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
