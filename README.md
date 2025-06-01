@@ -105,6 +105,55 @@ I enjoy building responsive and user-friendly web applications using modern tech
       <sub>Aplikasi toko online alat tulis sederhana dengan fitur CRUD produk dan keranjang belanja</sub>
     </td>
   </tr>
+
+  <tr>
+    <td width="400">
+      <a href="https://github.com/faulnam/astro-ecommerce" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=astro-ecommerce&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>🛍️ ASTRO E-COMMERCE</b> <br/>
+      <sub>Website toko online modern berbasis Astro + Tailwind.</sub>
+    </td>
+    <td width="400">
+      <a href="https://faulnam.github.io/material-kit/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=material-kit&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>🎨 MATERIAL KIT</b> <br/>
+      <sub>UI Kit berbasis Material Design untuk membangun antarmuka elegan.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="400">
+      <a href="https://github.com/faulnam/notus-react" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=notus-react&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>📝 NOTUS REACT</b> <br/>
+      <sub>Template React modern dengan Tailwind & komponen siap pakai.</sub>
+    </td>
+    <td width="400">
+      <a href="https://faulnam.github.io/fullcalendar/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=fullcalendar&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>📆 FULLCALENDAR</b> <br/>
+      <sub>Implementasi kalender interaktif berbasis JavaScript dengan UI dinamis.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="400">
+      <a href="https://faulnam.github.io/argon-design-system/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=argon-design-system&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>💠 ARGON DESIGN SYSTEM</b> <br/>
+      <sub>UI Framework modern berbasis Bootstrap dan desain elegan Argon.</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
