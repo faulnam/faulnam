@@ -104,6 +104,14 @@ I enjoy building responsive and user-friendly web applications using modern tech
       <b>💬 APK-WEB-ATK</b> <br/>
       <sub>Aplikasi toko online alat tulis sederhana dengan fitur CRUD produk dan keranjang belanja</sub>
     </td>
+     <td width="400">
+      <a href="https://faulnam.github.io/argon-design-system/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=argon-design-system&theme=material-palenight" />
+      </a>
+      <br/>
+      <b>💠 ARGON DESIGN SYSTEM</b> <br/>
+      <sub>UI Framework modern berbasis Bootstrap dan desain elegan Argon.</sub>
+    </td>
   </tr>
 
   <tr>
@@ -144,16 +152,6 @@ I enjoy building responsive and user-friendly web applications using modern tech
     </td>
   </tr>
 
-  <tr>
-    <td width="400">
-      <a href="https://faulnam.github.io/argon-design-system/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=argon-design-system&theme=material-palenight" />
-      </a>
-      <br/>
-      <b>💠 ARGON DESIGN SYSTEM</b> <br/>
-      <sub>UI Framework modern berbasis Bootstrap dan desain elegan Argon.</sub>
-    </td>
-  </tr>
 </table>
 
 </div>
