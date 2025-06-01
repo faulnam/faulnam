@@ -40,9 +40,7 @@ With a strong dedication to clean code and user-centric design, I build responsi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faulnam&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=faulnam&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" alt="Top Languages" /> </p>
 
 ---
 
