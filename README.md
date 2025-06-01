@@ -41,8 +41,6 @@ With a strong dedication to clean code and user-centric design, I build responsi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faulnam&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faulnam&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faulnam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
