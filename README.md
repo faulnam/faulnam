@@ -12,7 +12,7 @@
   <a href="mailto:syifakul.anm@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://faulnam.github.io/WEB-PERSONAL/">
+  <a href="https://web-poertofolio.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -167,7 +167,7 @@ With a strong dedication to clean code and user-centric design, I build responsi
   <a href="mailto:syifakul.anm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://faulnam.github.io/WEB-PERSONAL/">
+  <a href="https://web-poertofolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
