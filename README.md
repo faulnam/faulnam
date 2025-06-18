@@ -53,18 +53,17 @@ With a strong dedication to clean code and user-centric design, I build responsi
 <div align="center">
 
 <table>
- <tr>
+<tr>
   <td colspan="2" align="center">
-    <a href="https://byon-combat.vercel.app/" target="_blank" style="text-decoration: none;">
-      <div style="border: 2px solid #00FFD5; border-radius: 12px; padding: 20px; width: 90%; max-width: 720px; margin: 10px auto; background: #0d1117;">
-        <img src="https://img.shields.io/badge/Byon%20Combat-Coming%20Soon-00FFD5?style=for-the-badge&logo=vercel&logoColor=black" />
-        <h3 style="color: #00FFD5; margin-top: 10px;">🕹️ Byon Combat (Coming Soon)</h3>
-        <p style="color: #c9d1d9;">Proyek interaktif berbasis web dengan fitur permainan, UI dinamis, dan performa ringan. Stay tuned!</p>
-      </div>
+    <a href="https://byon-combat.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🕹️%20Byon%20Combat%20-%20COMING%20SOON%20🚀-00FFD5?style=for-the-badge&logo=vercel&logoColor=black" alt="Byon Combat Banner" />
     </a>
-    <br />
-    <!-- Garis pemisah keren -->
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD5&height=2" width="80%" />
+    <br/><br/>
+    <sub style="color: #c9d1d9;">Proyek interaktif berbasis web dengan fitur permainan, UI dinamis, dan performa ringan.</sub>
+    <br/>
+    <sub><a href="https://byon-combat.vercel.app/" target="_blank" style="color: #00FFD5; text-decoration: none;"><strong>👉 Klik di sini untuk lihat proyeknya</strong></a></sub>
+    <br/><br/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD5&height=2&width=80%" alt="separator" />
   </td>
 </tr>
 
