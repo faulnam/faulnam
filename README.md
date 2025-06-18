@@ -54,6 +54,16 @@ With a strong dedication to clean code and user-centric design, I build responsi
 
 <table>
   <tr>
+    <td colspan="2">
+      <a href="https://byon-combat.vercel.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=byon-combat&theme=tokyonight" />
+      </a>
+      <br/>
+      <b>🕹️ Byon Combat (Coming Soon)</b><br/>
+      <sub>Proyek interaktif berbasis web dengan fitur permainan dan antarmuka dinamis.</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="400">
       <a href="https://github.com/faulnam/astro-ecommerce" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=astro-ecommerce&theme=tokyonight" />
