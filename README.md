@@ -56,7 +56,7 @@ With a strong dedication to clean code and user-centric design, I build responsi
   <tr>
     <td colspan="2">
       <a href="https://byon-combat.vercel.app/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faulnam&repo=byon-combat&theme=tokyonight" />
+        <img src="https://img.shields.io/badge/Byon%20Combat-Coming%20Soon-00FFD5?style=for-the-badge&logo=vercel&logoColor=black" />
       </a>
       <br/>
       <b>🕹️ Byon Combat (Coming Soon)</b><br/>
