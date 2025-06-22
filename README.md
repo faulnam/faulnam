@@ -6,7 +6,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
+  <a href="https://www.linkedin.com/in/faulnam" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syifakul.anm@gmail.com">
@@ -176,7 +176,7 @@ With a strong dedication to clean code and user-centric design, I build responsi
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faul-nam-646965259" target="_blank">
+  <a href="https://www.linkedin.com/in/faulnam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syifakul.anm@gmail.com">
