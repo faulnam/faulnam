@@ -58,10 +58,15 @@ With a strong dedication to clean code and user-centric design, I build responsi
     <a href="https://byon-combat.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🕹️%20Byon%20Combat%20-%20COMING%20SOON%20🚀-00FFD5?style=for-the-badge&logo=vercel&logoColor=black" alt="Byon Combat Banner" />
     </a>
+    <a href="https://profile-desa-six.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🕹️%20Profile%20Desa%20-%20COMING%20SOON%20🚀-00FFD5?style=for-the-badge&logo=vercel&logoColor=black" alt="Profile Desa Banner" />
+    </a>
     <br/><br/>
     <sub style="color: #c9d1d9;">Proyek interaktif berbasis web dengan fitur permainan, UI dinamis, dan performa ringan.</sub>
     <br/>
-    <sub><a href="https://byon-combat.vercel.app/" target="_blank" style="color: #00FFD5; text-decoration: none;"><strong>👉 Klik di sini untuk lihat proyeknya</strong></a></sub>
+    <sub><a href="https://byon-combat.vercel.app/" target="_blank" style="color: #00FFD5; text-decoration: none;"><strong>👉 Klik di sini untuk lihat proyeknya (BYON COMBAT)</strong></a></sub>
+    <br/><br/>
+    <sub><a href="https://profile-desa-six.vercel.app/" target="_blank" style="color: #00FFD5; text-decoration: none;"><strong>👉 Klik di sini untuk lihat proyeknya (PROFILE DESA)</strong></a></sub>
     <br/><br/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD5&height=2&width=80%" alt="separator" />
   </td>
